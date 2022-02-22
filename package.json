@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/guirogeri.lwc-kzxkshad",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve FYC2GVz5kkseI0HxGMvv --open"
+  }
+}
